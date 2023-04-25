@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+    <img src="https://user-images.githubusercontent.com/70185413/234344322-73f22972-d00b-438c-83e8-09607e36e78a.png" width="100" />
     <br>Flash-Game-X</h1>
 
  <h3 align="center">🚀 无需FlashPlayer，随时随地打开浏览器即可畅玩的Flash游戏 </h3>
