@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+}
+
+:root {
+  --theme-bg-color: #2a2a2a;
+  --theme-color: rgba(255, 255, 255, 0.95);
+
+  --base-color: #43cf7c;
+}
