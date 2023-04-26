@@ -11,7 +11,7 @@ const GameCard: React.FC<GameCardProps> = ({ data, className = "" }) => {
   return (
     <Link
       className={classNames(
-        "relative rounded-2xl h-[300px] w-[210px] overflow-hidden",
+        "relative rounded-2xl overflow-hidden",
         "bg-[var(--theme-bg-color)]",
         className
       )}

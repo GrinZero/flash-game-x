@@ -36,6 +36,12 @@ export const GAME_LIST: GameItem[] = [
     name: "Q版泡泡堂",
     src: "/q-paopao/index.png",
   },
+  {
+    id: 6,
+    key: "dnf27",
+    name: "DNF v2.7",
+    src: "/dnf27/index.png",
+  },
 ];
 
 export const getGameList = async () => {

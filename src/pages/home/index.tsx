@@ -12,7 +12,11 @@ const HomePage = () => {
   return (
     <div className="flex flex-row flex-wrap mt-8">
       {data.map((item) => (
-        <GameCard className="mt-4 mr-4" key={item.id} data={item} />
+        <GameCard
+          className="mt-4 mx-2 w-[45.5%] md:h-[300px] md:w-[210px]"
+          key={item.id}
+          data={item}
+        />
       ))}
     </div>
   );

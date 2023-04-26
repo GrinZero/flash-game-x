@@ -29,7 +29,10 @@ This is a collection of Flash games that can be played anytime and anywhere with
 | :---------------: | :------: | :-----------------: | :----------------------------------------------------------------: |
 | 死神 vs 火影 v1.7 |   格斗   | 2008 MVP Flash Game | [死神 vs 火影 v1.7](https://flash-game-x.netlify.app/#/game/bvn17) |
 | 死神 vs 火影 v2.4 |   格斗   |   新增：嗜血剑心    | [死神 vs 火影 v2.4](https://flash-game-x.netlify.app/#/game/bvn24) |
-|                   |          |                     |                                                                    |
+|    魔塔 50 层     |   益智   |   经典款，无存档    |    [魔塔 50 层](https://flash-game-x.netlify.app/#/game/mt-50)     |
+|     黄金矿工      |   益智   |       经典款        |    [黄金矿工](https://flash-game-x.netlify.app/#/game/gold-kg)     |
+|    Q 版泡泡堂     |    -     |       经典款        |   [Q 版泡泡堂](https://flash-game-x.netlify.app/#/game/q-paopao)   |
+|     DNF v2.7      |    -     |       经典款        |     [DNF v2.7 ](https://flash-game-x.netlify.app/#/game/dnf27)     |
 
 ## 📦 提交游戏
 

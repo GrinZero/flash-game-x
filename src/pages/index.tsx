@@ -22,7 +22,7 @@ const IndexElement = () => {
           <span className="font-bold text-xl">Flash-Game-X</span>
         </Link>
       </Header>
-      <Content style={{ padding: "0 50px", background: "#222222" }}>
+      <Content className="px-4 md:px-[50px]" style={{ background: "#222222" }}>
         <FloatButton.BackTop />
         <Outlet />
       </Content>
