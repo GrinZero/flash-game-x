@@ -29,7 +29,11 @@ const GamePage = () => {
   return (
     <div className="mt-3 w-full flex flex-col items-center">
       <span className="text-base font-bold mb-2 w-[700px]">{item.name}</span>
-      <GamePlayer className="w-[700px] h-[525px]" game={key!} />
+      <GamePlayer
+        className="w-[700px] h-[525px]"
+        game={key!}
+        loader={item.loader}
+      />
     </div>
   );
 };

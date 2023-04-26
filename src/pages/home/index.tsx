@@ -3,8 +3,6 @@ import { GameCard } from "@/components";
 import type { GameItem } from "../../api";
 import { useTitle } from "ahooks";
 
-console.log("GameCard", GameCard);
-
 const HomePage = () => {
   const data = useLoaderData() as GameItem[];
   useTitle("首页");

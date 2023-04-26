@@ -2,6 +2,7 @@ export interface GameItem {
   id: number;
   key: string;
   name: string;
+  loader?: string;
   src: string;
 }
 export const GAME_LIST: GameItem[] = [
@@ -16,6 +17,12 @@ export const GAME_LIST: GameItem[] = [
     key: "bvn24",
     name: "死神vs火影 v2.4",
     src: "/bvn24/index.png",
+  },
+  {
+    id: 4,
+    key: "gold-kg",
+    name: "黄金矿工",
+    src: "/gold-kg/index.png",
   },
 ];
 
